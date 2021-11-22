@@ -12,7 +12,7 @@
             <h1>This is Project X</h1>
         </div>
         <p>
-            <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="ClickMe" />
+            <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Click On Me" />
         </p>
         <asp:Label ID="Label1" runat="server"></asp:Label>
     </form>
